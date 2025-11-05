@@ -128,7 +128,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <label>Titulo da rifa:</label>
                     <input type="text" id="tituloRifa" name="tituloRifa">
                     <div>
-                        <input type="submit" value="Calcular" id="button">
+                        <input type="submit" value="Gerar" id="button">
                     </div>
                 </div>
 
